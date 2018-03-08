@@ -5,8 +5,7 @@ A tool to get question links from stackexchange website that contains certain wo
 You first need to install the python 2.7 to get all the package needed to use this tool:
 * **Linux/Unix**: `sudo apt install python2.7 python-pip`
 * **Windows**: install manually the package from the [python site](https://www.python.org/downloads/), and follow installation instructions, **make sure to put the path in the environnement when installing dependencies**.
-* **Mac**: you must install **Homebrew** and install python like so: `brew install python`, I suggest you follow the instruction from this [site]
-(http://docs.python-guide.org/en/latest/starting/install3/osx/)
+* **Mac**: you must install **Homebrew** and install python like so: `brew install python`, I suggest you follow the instruction from this [site](http://docs.python-guide.org/en/latest/starting/install3/osx/)
 
 ### Package installation
 Once this is done you can install those package with **pip**:
