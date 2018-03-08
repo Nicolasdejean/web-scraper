@@ -34,4 +34,4 @@ the tool is used like so:
 * **forum** is the site you want to research it can be stackexchange, stackoverflow, superuser...
 * **words** are the words you want to find in the question description it can be a list of words. The fewer the words the more question you will have and vice versa.
 
-**This tool is in developement** so it has a few bugs, any help/pull request is welcome.
+**This tool is in developement so it has a few bugs, any help/pull request is welcome.**
